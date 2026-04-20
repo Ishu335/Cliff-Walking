@@ -24,10 +24,6 @@ The agent learns to navigate a grid world from a start state to a goal state whi
 
 ![Cliff Walking RL](https://raw.githubusercontent.com/Ishu335/Cliff-Walking/26ceb24d58ab0908f0f23993ab8fa73d0006cc92/img/cliff_walking_rl.gif)
 
-## 📊 Environment Visualization  
-
-![Cliff Walking](https://upload.wikimedia.org/wikipedia/commons/6/6a/Cliff_Walking_Problem.png)
-
 ---
 
 ## ⚙️ Algorithms Implemented  
